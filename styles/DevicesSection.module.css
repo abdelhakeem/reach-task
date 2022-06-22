@@ -1,0 +1,4 @@
+.devicesSection li {
+  @apply m-2 p-4 w-full rounded-lg bg-secondary hover:opacity-90
+         cursor-pointer;
+}
